@@ -1,0 +1,7 @@
+.centered-image {
+    display: block;     /* Make it a block element */
+    margin: 0 auto;    /* Center horizontally */
+    width: 300px;      /* Set the desired width */
+    height: auto;      /* Maintain aspect ratio */
+  }
+  
